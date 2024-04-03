@@ -1,7 +1,7 @@
 
 from tkinter import*
 from tkinter import ttk
-import mysql.connector as mysql
+
 from tkinter import messagebox
 import tkinter.messagebox as MessageBox
 from class_produit01 import*
